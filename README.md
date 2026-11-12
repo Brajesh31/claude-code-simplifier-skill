@@ -17,3 +17,7 @@ Use when cleaning up code, refactoring for readability, or reviewing recent chan
 ## Safety
 
 Review the diff before accepting changes. Do not remove important behavior, alter unrelated files, or claim verification that was not performed.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
